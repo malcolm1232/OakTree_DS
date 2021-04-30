@@ -1,7 +1,8 @@
 #Template CMD run
 [NOTE: For bottom to work, after downloading, 
-1. change validation set to validation_set.csv 
-2. then transfer to /OakTree_DS-main]
+1. Extract File
+2. change validation set to validation_set.csv 
+3. then transfer to /OakTree_DS-main]
 
 cd downloads/OakTree_DS-main
 tar -xf final_model_Model10v1.zip
