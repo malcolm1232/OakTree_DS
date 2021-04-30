@@ -4,7 +4,7 @@
 2. change validation set to validation_set.csv 
 3. then transfer to /OakTree_DS-main]
 
-cd downloads/OakTree_DS-main
+cd Downloads/OakTree_DS-main
 tar -xf final_model_Model10v1.zip
 pip install -r requirements.txt
 python final_pred_model.py --path=validation_set.csv
